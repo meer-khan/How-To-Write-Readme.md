@@ -60,3 +60,4 @@ puts markdown.to_html
 )](https://www.linkedin.com/in/meer-khan)
 
 [Built your badge](https://shields.io/)
+[Built your badge](https://badgen.net/)

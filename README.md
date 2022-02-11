@@ -24,3 +24,9 @@ _Nested Italic and **Bold**_
   cout << ("Hello World!")
 
 ```
+
+```python
+print('redcarpet')
+markdown = Redcarpet.new("Hello World!")
+puts markdown.to_html
+```

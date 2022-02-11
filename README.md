@@ -51,3 +51,10 @@ puts markdown.to_html
 @octocat :+1: This PR looks great - it's ready to merge! :shipit:
 
 [Link for Emojiz ](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md)
+
+
+## TAGS
+
+#### Shahmeer Khan 🧑
+[![LinkedIn Link](https://img.shields.io/badge/Connect-Shahmeer-blue.svg?logo=linkedin&longCache=true&style=social&label=Connect
+)](https://www.linkedin.com/in/meer-khan)

@@ -64,3 +64,7 @@ puts markdown.to_html
 
 
 [Stats](https://github-readme-stats.vercel.app/api?username={meer-khan}&theme=blue-green)
+
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=meer-khan&show_icons=true&theme=radical)

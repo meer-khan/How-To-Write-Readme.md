@@ -30,3 +30,6 @@ print('redcarpet')
 markdown = Redcarpet.new("Hello World!")
 puts markdown.to_html
 ```
+
+
+![mazedar](https://user-images.githubusercontent.com/40295656/153543707-8ddd42bc-b283-43cf-8a00-130c4bcd638a.jpg)

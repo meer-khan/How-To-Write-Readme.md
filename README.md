@@ -12,3 +12,7 @@
 __This is bold__  
 _This is italic_
 
+
+_Nested Italic and **Bold**_
+
+~~Strike Through Text~~

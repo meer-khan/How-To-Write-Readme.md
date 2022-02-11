@@ -41,3 +41,9 @@ puts markdown.to_html
 .
 
 <img src="https://user-images.githubusercontent.com/40295656/104624837-df476700-56b5-11eb-8bc3-05df2b22e8bb.jpg"  height='350px' />
+
+
+## Using Emojis
+@octocat :+1: This PR looks great - it's ready to merge! :shipit:
+
+[Link for Emojiz ](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md)

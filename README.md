@@ -53,8 +53,10 @@ puts markdown.to_html
 [Link for Emojiz ](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md)
 
 
-## TAGS
+## BADGES
 
 #### Shahmeer Khan 🧑
 [![LinkedIn Link](https://img.shields.io/badge/Connect-Shahmeer-blue.svg?logo=linkedin&longCache=true&style=social&label=Connect
 )](https://www.linkedin.com/in/meer-khan)
+
+[Built your badge](https://shields.io/)

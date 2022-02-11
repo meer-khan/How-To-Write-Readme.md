@@ -9,6 +9,6 @@
 
 *This is italic Text*
 
-__This is bold__ 
+__This is bold__  
 _This is italic_
 

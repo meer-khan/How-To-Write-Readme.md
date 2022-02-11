@@ -16,3 +16,11 @@ _This is italic_
 _Nested Italic and **Bold**_
 
 ~~Strike Through Text~~
+
+``` 
+  Writing Code Here 
+  Print("Hello World!") 
+  System.out.println("Hello World!")
+  cout << ("Hello World!")
+
+```

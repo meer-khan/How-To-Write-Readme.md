@@ -63,8 +63,12 @@ puts markdown.to_html
 [Built your badge](https://badgen.net/)
 
 
-[Stats](https://github-readme-stats.vercel.app/api?username={meer-khan}&theme=blue-green)
+
 
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=meer-khan&show_icons=true&theme=radical)
+
+##[Get this above stats](https://github.com/anuraghazra/github-readme-stats)
+
+

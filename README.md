@@ -59,5 +59,8 @@ puts markdown.to_html
 [![LinkedIn Link](https://img.shields.io/badge/Connect-Shahmeer-blue.svg?logo=linkedin&longCache=true&style=social&label=Connect
 )](https://www.linkedin.com/in/meer-khan)
 
-[Built your badge](https://shields.io/)
+[Built your badge](https://shields.io/) 
 [Built your badge](https://badgen.net/)
+
+
+[Stats](https://github-readme-stats.vercel.app/api?username={username}&theme=blue-green)
